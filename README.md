@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Gergo</h1>
 <h3 align="center">Frontend developer from Budapest, Hungary</h3>
-<p align="left">Budapest-based web developer fluent in WordPress theme and plugin development, PHP web applications and HTML design with JavaScript and CSS. Coding experience includes PHP, JavaScript, ReactJS, Python, MySQL, HTML5 and CSS3. Backend and architecture experience includes version control with Git, managing Ubuntu servers, configuring Microsoft Azure resources, using Amazon Web Services, and building on DigitalOcean Droplets and Spaces.</p>
+<p align="left">I'm a web developer based in Budapest, Hungary, with extensive experience in WordPress theme and plugin development, PHP web applications, and HTML design with JavaScript and CSS. I'm well-versed in a range of programming languages and tools, including PHP, JavaScript, ReactJS, Python, MySQL, HTML5, and CSS3. My skills extend beyond coding to encompass backend development and architecture, including Git version control, server management with Ubuntu, configuration of Microsoft Azure resources, use of Amazon Web Services, and building on DigitalOcean Droplets and Spaces.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
